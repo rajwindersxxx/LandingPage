@@ -15,7 +15,7 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <MovingLogo />
+        {/* <MovingLogo /> */}
         <SocialIcons />
         <Features />
         <SessionService />
